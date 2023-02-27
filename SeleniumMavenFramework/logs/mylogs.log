@@ -1,0 +1,11 @@
+20230220 20:07:45 INFO  [main] base.BaseTest BaseTest.java65 - Started TestScript name = mergeAccountTest
+20230220 20:07:51 INFO  [main] base.BaseTest BaseTest.java119 - going to url :https://login.salesforce.com/
+20230220 20:07:52 INFO  [main] base.BaseTest BaseTest.java145 - usernameentered in field
+20230220 20:07:52 INFO  [main] base.BaseTest BaseTest.java145 - passwordentered in field
+20230220 20:07:56 INFO  [main] tests.CreateAccountTest CreateAccountTest.java33 - loginpage is launched
+20230220 20:07:57 INFO  [main] base.BaseTest BaseTest.java154 - accountslink is clicked
+20230220 20:07:58 INFO  [main] base.BaseTest BaseTest.java154 - mergeAccount is clicked
+20230220 20:07:58 INFO  [main] base.BaseTest BaseTest.java145 - searchACcentered in field
+20230220 20:07:59 INFO  [main] base.BaseTest BaseTest.java227 -  is selected from checkbox
+20230220 20:07:59 INFO  [main] base.BaseTest BaseTest.java227 -  is selected from checkbox
+20230220 20:08:02 INFO  [main] base.BaseTest BaseTest.java154 - accountRadioButton is clicked
